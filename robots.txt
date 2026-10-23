@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://portfolio-edwin-alejandro-villamizar.netlify.app/sitemap.xml
