@@ -1115,3 +1115,28 @@ footer {
   max-width: 420px;
   justify-self: center;
 }
+
+/* ===== SOBRE MÍ ===== */
+.sobre-mi {
+  padding: 80px 20px;
+}
+
+.sobre-mi-contenido {
+  max-width: 720px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.sobre-mi-contenido p {
+  color: #cbd5e1;
+  font-size: 16px;
+  line-height: 1.7;
+}
+
+@media (max-width: 600px) {
+  .sobre-mi {
+    padding: 40px 12px;
+  }
+}
