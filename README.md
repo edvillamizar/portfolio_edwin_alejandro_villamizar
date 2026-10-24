@@ -57,6 +57,6 @@ cd portfolio_edwin_alejandro_villamizar
 
 ## Autor
 **Edwin Alejandro Villamizar** · Granada, España
-[LinkedIn](TU_URL_LINKEDIN) · [GitHub](https://github.com/edvillamizar)
+[LinkedIn](www.linkedin.com/in/edwinvillamizardiaz) · [GitHub](https://github.com/edvillamizar)
 
 
