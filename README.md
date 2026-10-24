@@ -4,8 +4,8 @@ Portfolio y web de servicios para negocios locales en Granada (marca EV Marketin
 
 🔗 **Demo:** https://portfolio-edwin-alejandro-villamizar.netlify.app
 
-![Captura del portfolio](<img width="1896" height="862" alt="captura" src="https://github.com/user-attachments/assets/99ade7ec-987a-466f-95fb-3995152a4d88" />
-)
+<img width="1896" height="862" alt="captura" src="https://github.com/user-attachments/assets/ae2deb70-3203-423a-b127-1c63e54d0bd5" />
+
 
 ## Tecnologías
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
