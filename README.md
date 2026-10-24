@@ -18,6 +18,7 @@ Portfolio y web de servicios para negocios locales en Granada (marca EV Marketin
 - Servicios (5 tarjetas)
 - Proyectos con enlace a demo y código
 - Proceso de trabajo
+- Sobre mi
 - Contacto con formulario (Formspree)
 
 ## Funcionalidades
