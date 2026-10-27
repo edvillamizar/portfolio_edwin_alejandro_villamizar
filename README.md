@@ -21,13 +21,13 @@ habilidades y vías de contacto como Desarrollador Web Front End Junior.
 
 ## 🌐 Demo en vivo
 
-[https://portfolio-edwin-alejandro-villamizar.pages.dev/].
+[[https://portfolio-edwin-alejandro-villamizar.netlify.app/](https://portfolio-edwin-alejandro-villamizar.pages.dev/)].
 
 ## ▶️ Cómo verlo localmente
 
 1. Clona el repositorio:
 ```bash
-   git clone https://github.com/edvillamizar/portfolio_edwin_alejandro_villamizar
+   git clone https://github.com/edvillamizar/portfolio_edwin_alejandro_villamizar.git
 ```
 2. Abre `index.html` directamente en tu navegador
 
