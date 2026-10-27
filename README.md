@@ -27,7 +27,7 @@ habilidades y vías de contacto como Desarrollador Web Front End Junior.
 
 1. Clona el repositorio:
 ```bash
-   git clone https://github.com/edvillamizar/portfolio_edwin_alejandro_villamizar.git
+   git clone https://github.com/edvillamizar/portfolio_-Edwin_.git
 ```
 2. Abre `index.html` directamente en tu navegador
 
