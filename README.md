@@ -1,37 +1,22 @@
-# Portfolio Personal — Edwin Alejandro Villamizar
+# Portfolio Personal - Edwin Alejandro
 
-Sitio web personal desarrollado desde cero para presentar mis proyectos,
-habilidades y vías de contacto como Desarrollador Web Front End Junior.
+Diseño Web Front End Junior enfocado en el mercado español y andaluz, especializado en soluciones digitales para negocios locales.
 
-## 🛠️ Tecnologías
-
+## Tecnologías utilizadas
 - HTML5 semántico
-- CSS3 (Flexbox, variables CSS, glassmorphism)
-- JavaScript
-- Font Awesome (iconografía)
-- Formspree (formulario de contacto)
+- CSS3 puro (sin frameworks, con variables y Grid/Flexbox)
+- JavaScript moderno (Vanilla JS)
+- Optimizado para SEO local y rendimiento web
 
-## ✨ Características
+## Enlaces del proyecto
+- **Sitio web en producción:** [Cloudflare Portfolio](https://portfolio-edwin-alejandro-villamizar.pages.dev/)
+- **Cloudflare:** Gestionado para rendimiento y seguridad.
 
-- Diseño responsive adaptado a móvil, tablet y escritorio
-- Modo glassmorphism con paleta azul oscuro
-- Formulario de contacto funcional vía Formspree
-- Botón de contacto directo por WhatsApp
-- Secciones: Sobre mí, Proyectos, Habilidades, Contacto
+## Secciones principales
+- **Hero:** Presentación directa con llamada a la acción y plazo unificado de entrega (7-14 días).
+- **Servicios:** 5 tarjetas enfocadas en valor comercial (Web Local, SEO, Responsive, Velocidad, Soporte).
+- **Proyectos:** Trabajos realizados con enlaces directos a código y demo.
+- **Proceso y Contacto:** Metodología clara de trabajo y formulario integrado.
 
-## 🌐 Demo en vivo
-
-[[https://portfolio-edwin-alejandro-villamizar.netlify.app/](https://portfolio-edwin-alejandro-villamizar.pages.dev/)].
-
-## ▶️ Cómo verlo localmente
-
-1. Clona el repositorio:
-```bash
-   git clone https://github.com/edvillamizar/portfolio_-Edwin_.git
-```
-2. Abre `index.html` directamente en tu navegador
-
-## 📌 Contexto
-
-Proyecto propio desarrollado para presentar mi perfil profesional
-en el mercado tech español mientras completo mi formación en desarrollo web.
+## Autor
+Edwin Alejandro - Desarrollador Web Front End (Granada, España).
