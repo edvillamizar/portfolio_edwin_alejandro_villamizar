@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Portfolio Personal - Edwin Alejandro
 
 Diseño Web Front End Junior enfocado en el mercado español y andaluz, especializado en soluciones digitales para negocios locales.
@@ -26,7 +26,7 @@ Edwin Alejandro - Desarrollador Web Front End (Granada, España).
 
 Portfolio y web de servicios para negocios locales en Granada (marca EV Marketing Digital). Sitio estático hecho a mano, sin frameworks.
 
-🔗 **Demo:** https://portfolio-edwin-alejandro-villamizar.netlify.app
+🔗 **Demo:** https://portfolio-edwin-alejandro-villamizar.pages.dev/
 
 <img width="1896" height="862" alt="captura" src="https://github.com/user-attachments/assets/ae2deb70-3203-423a-b127-1c63e54d0bd5" />
 
