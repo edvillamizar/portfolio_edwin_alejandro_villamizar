@@ -260,16 +260,15 @@ nav ul li a:hover {
   content: "";
   position: absolute;
   z-index: -1;
-  right: 10%;
-  bottom: 12%;
-  width: 80%;
-  height: 70%;
+  right: 0;
+  bottom: 5%;
+  width: 100%;
+  height: 80%;
   background: radial-gradient(
-    circle,
-    rgba(66, 126, 101, 0.6) 0%,
+    ellipse at center,
+    rgba(66, 126, 101, 0.55) 0%,
     rgba(66, 126, 101, 0) 70%
   );
-  filter: blur(40px);
 }
 
 .hero-img::after {
@@ -279,11 +278,10 @@ nav ul li a:hover {
 .hero-img img {
   display: block;
   height: auto;
-  width: 100;
+  width: 100%;
   max-width: 100%;
   object-fit: contain;
   object-position: right bottom;
-  filter: drop-shadow(0 0 25px rgba(0, 0, 0, 0.35));
 
   /* Fundido: borde izquierdo + parte inferior */
   -webkit-mask-image:
@@ -934,11 +932,6 @@ footer {
     font-size: 2.2rem;
   }
 
-  .hero-img-placeholder {
-    width: 180px;
-    height: 180px;
-    font-size: 60px;
-  }
 
   h2 {
     font-size: 32px;
