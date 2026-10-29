@@ -1165,3 +1165,10 @@ footer {
 }
 
 .icon { width: 1em; height: 1em; fill: currentColor; vertical-align: -0.125em; display: inline-block; }
+
+.project-info .enlace-codigo {
+  margin-left: 16px;
+  font-size: 14px;
+  color: #9ca3af;
+  text-decoration: underline;
+}
