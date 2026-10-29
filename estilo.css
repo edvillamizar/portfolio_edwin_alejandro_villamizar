@@ -248,8 +248,8 @@ nav ul li a:hover {
 
 .hero-img img {
   display: block;
-  height: 92%;
-  width: auto;
+  height: auto;
+  width: 100;
   max-width: 100%;
   object-fit: contain;
   object-position: right bottom;
