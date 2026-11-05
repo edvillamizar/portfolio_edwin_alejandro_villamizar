@@ -10,7 +10,7 @@ Diseño Web Front End Junior enfocado en el mercado español y andaluz, especial
 - Optimizado para SEO local y rendimiento web
 
 ## Enlaces del proyecto
-- **Sitio web en producción:** [Cloudflare Portfolio](https://portfolio-edwin-alejandro-villamizar.pages.dev/)
+- **Sitio web:** [Cloudflare Portfolio](https://edwinvillamizardiaz.com)
 - **Cloudflare:** Gestionado para rendimiento y seguridad.
 
 ## Secciones principales
@@ -26,7 +26,7 @@ Edwin Alejandro - Desarrollador Web Front End (Granada, España).
 
 Portfolio y web de servicios para negocios locales en Granada (marca EV Marketing Digital). Sitio estático hecho a mano, sin frameworks.
 
-🔗 **Demo:** https://portfolio-edwin-alejandro-villamizar.pages.dev/
+🔗 **Demo:** https://edwinvillamizardiaz.com
 
 <img width="1896" height="862" alt="captura" src="https://github.com/user-attachments/assets/ae2deb70-3203-423a-b127-1c63e54d0bd5" />
 
