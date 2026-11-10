@@ -1173,4 +1173,19 @@ footer {
   text-decoration: underline;
 }
 
-
+.servicios-enlaces { text-align: center; margin-top: 2rem; }
+.servicios-enlaces a { text-decoration: underline; }
+.servicios-enlaces a,
+main a:not([class]) {
+  color: #38bdf8;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+.servicios-enlaces a:hover,
+main a:not([class]):hover {
+  color: #7dd3fc;
+}
+.servicios-enlaces a:visited,
+main a:not([class]):visited {
+  color: #a5b4fc;
+}
